@@ -1,7 +1,7 @@
 # Alumni-Information-System-UML
 UML Mini Project for Object Oriented Design and Programming 
 
-The following UML diagrams are included in this project:
+This project includes the following UML diagrams:
 
 1.Use Case Diagram
 
