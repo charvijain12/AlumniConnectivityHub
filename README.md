@@ -15,7 +15,7 @@ Open the `Alumni Information System UML.pdf` file in your preferred PDF viewer.
 
 
 ## Project Description
-The Elevator Control System project is designed to simulate the operation of a real-life elevator system. The system includes multiple elevators that move up and down between floors, and a control system that manages the movement of the elevators. The project is implemented using object-oriented design and programming principles, and the UML diagrams provide a detailed description of the system's architecture and functionality.
+The Alumni Information System UML project is a visual representation of an information system that manages the data of an educational institution's alumni. The project uses UML diagrams to describe the system's architecture and functionality. The system is designed to allow the institution to keep track of its alumni's information such as their personal information, educational background, and employment details. The UML diagrams provide a detailed representation of the system's components, such as classes, objects, and their relationships, and illustrate the flow of data and control within the system. The project's design emphasizes modularity and scalability to accommodate the changing needs of the institution and its growing alumni network.
 
 
 
