@@ -1,6 +1,6 @@
 # AlumniConnectivityHub: Alumni Information System 🎓
 
-Hi, Welcome to the AlumniConnectivityHub repository, a comprehensive project visualizing an object-oriented design and programming system for managing an educational institution's alumni data. 📚✨
+Welcome to the AlumniConnectivityHub repository, a comprehensive project visualizing an object-oriented design and programming system for managing an educational institution's alumni data. 📚✨
 
 ## Accessing the PDF Document 📄
 To access the PDF document and explore the intricate details of this Alumni Information System project, follow these steps:
